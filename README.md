@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Technologies : React, Stylelint, Typescript, Rest API and JSX.
 [DEMO](https://mateuszslezak.github.io/react-app-demo/).
 
 ## Available Scripts
